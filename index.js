@@ -159,4 +159,4 @@ class Matrix2D {
   }
 }
 
-new Matrix2D({ rows: 10, cols: 10, min: -1000, max: 1000 }).generate().print()
+new Matrix2D({ rows: 10, cols: 10, min: -100, max: 100 }).generate().print()
