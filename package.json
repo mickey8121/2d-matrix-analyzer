@@ -1,0 +1,12 @@
+{
+  "name": "2d-matrix-analyzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mickey8121/2d-matrix-analyzer.git",
+  "author": "Mickey Drozd <mdrozd.1411@gmail.com>",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "node index.js"
+  }
+}
